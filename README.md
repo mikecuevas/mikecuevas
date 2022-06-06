@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Mike 👋
-🚩Atualmente eu trabalho com Desenvolvimento Mobile </br>
+🚩Atualmente trabalho com Desenvolvimento Mobile </br>
 🚩Sou estudante de Engenharia de Controle e Automação, estou no 4° periodo da faculdade. </br>
 🚩Meu sonho é viajar pelo mundo, conhecer novas culturas e viver com o que eu gosto... Programação ^_^
 ##
