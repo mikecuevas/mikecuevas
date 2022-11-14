@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Mike 👋
-🚩Atualmente trabalho com Desenvolvimento Mobile </br>
+🚩Atualmente trabalho com Desenvolvimento Mobile utilizando React Native e TypeScript </br>
 🚩Sou estudante de Engenharia de Controle e Automação, estou no 5° periodo da faculdade. </br>
 ##
 <div align="center">
