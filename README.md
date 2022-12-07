@@ -15,10 +15,4 @@ Control and Automation Engineering Student<br><br>Currently work with React Nati
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mikecuevas&icon=0&color=5)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
