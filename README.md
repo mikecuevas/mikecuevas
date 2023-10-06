@@ -1,5 +1,5 @@
 # About Me:
-Control and Automation Engineering Student<br><br>Currently work with React Native | TypeScript 
+I am passionate about technology and how it can benefit society. Currently, I am a student of Control and Automation Engineering at the Federal University of Santa Catarina and have experience in mobile and web development, focusing on technologies such as JavaScript, React Native, and TypeScript.
 
 
 
